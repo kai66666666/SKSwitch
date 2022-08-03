@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SKSwitch'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = '自定义UISwitch'
   s.homepage         = 'https://github.com/kai66666666/SKSwitch.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
