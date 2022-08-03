@@ -60,6 +60,7 @@ open class SKSwitch: UIView {
     /// button
     private lazy var button: UIButton = {
         let result = UIButton()
+        result.isHidden = true
         return result
     }()
 
